@@ -1,0 +1,6 @@
+ClaimID,PatientID,ProviderID,ClaimAmount,ClaimDate,DiagnosisCode,ProcedureCode,PatientAge,PatientGender,ProviderSpecialty,ClaimStatus,PatientIncome,PatientMaritalStatus,PatientEmploymentStatus,ProviderLocation,ClaimType,ClaimSubmissionMethod
+CLM001,PAT001,PROV001,1500.50,2023-01-15,A01,P01,34,M,Cardiology,Approved,55000.00,Married,Employed,New York,Inpatient,Electronic
+CLM002,PAT002,PROV002,3200.00,2023-01-20,B02,P02,52,F,Orthopedics,Approved,72000.00,Single,Employed,Los Angeles,Outpatient,Mail
+CLM003,PAT003,PROV001,800.75,2023-02-10,C03,P03,28,F,Dermatology,Denied,41000.00,Single,Unemployed,Chicago,Office Visit,Electronic
+CLM004,PAT001,PROV003,5300.25,2023-02-18,A01,P04,34,M,Cardiology,Approved,55000.00,Married,Employed,New York,Inpatient,Electronic
+CLM005,PAT004,PROV002,2100.00,2023-03-05,D04,P01,65,M,Orthopedics,Approved,95000.00,Married,Retired,Los Angeles,Outpatient,Mail
